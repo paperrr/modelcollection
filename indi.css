@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+p{font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif}
+h1{font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;font-size: 68px; background-color: #00d1b2}
+body{background-color: antiquewhite}
+body{margin-left: 145px; margin-right: 145px}
+#main{border: solid 2px #00d1b2}
+table{font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif; font-size: 24px}
+#video{margin-left: 30px}
